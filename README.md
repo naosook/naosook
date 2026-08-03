@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/goodbye1.gif" width="600"/>
+<img src="assets/goodbye1.gif" width="350"/>
 
-<br><br>
+<br>
 
-# 👋 Amanda Brandão Sousa
+<h1>👋 Amanda Brandão Sousa</h1>
 
 <a href="https://github.com/naosook">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Intelligence;Power+BI+Analyst;SQL+%26+Python;Data+Visualization" alt="Typing SVG" />
