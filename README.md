@@ -24,40 +24,40 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-📊 Dados
+📊 Data
 
-📍 Brasil | 💼 Analista de Dados Júnior | ❤️ Power BI, Business Intelligence e Transformação de Dados
+📍 Brazil | 💼 Junior Data Analyst | ❤️ Power BI, Business Intelligence & Data Transformation
 
-🎯 **Áreas de interesse:**
+🎯 **Areas of interest:**
 
-- Análise de Dados e Business Intelligence
-- Visualização de Dados e criação de dashboards
-- Extração, tratamento e análise de informações
-- Transformação de dados em insights para tomada de decisão
+- Data Analysis and Business Intelligence
+- Data Visualization and dashboard development
+- Data extraction, cleaning and analysis
+- Transforming data into insights to support decision-making
 
-📚 **Atualmente aprendendo:**
+📚 **Currently learning:**
 
-- Aprofundamento em Business Intelligence (BI)
-- Estatística aplicada à análise de dados
-- SQL para análise e consultas avançadas
-- Python com Pandas
-- Modelagem de dados e boas práticas em BI
+- Advanced Business Intelligence concepts
+- Statistics applied to Data Analysis
+- SQL for data analysis and advanced queries
+- Python with Pandas
+- Data modeling and BI best practices
 
 🎮 **Hobbies:**
 
-- Aprender novas tecnologias
-- Resolver problemas através da programação
-- Ler e explorar novos conhecimentos
+- Learning new technologies
+- Solving problems through programming
+- Reading and exploring new knowledge
 
-⚡ **Curiosidade:** Gosto de transformar dados em informações que ajudam na tomada de decisões e estou sempre buscando evoluir minhas habilidades na área de Dados.
+⚡ **Fun fact:** I enjoy transforming data into meaningful information that helps people and businesses make better decisions, and I am always looking for opportunities to improve my skills in the Data field.
 
 ---
 
 <div align="center">
 
-## 🐍 Linguagens
+## 🐍 Programming Language
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -67,13 +67,13 @@
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
 
-## 🗄️ Banco de Dados
+## 🗄️ Databases
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/PGADMIN-336791?style=for-the-badge&logoColor=white)
 
-## ⚙️ Ferramentas
+## ⚙️ Tools
 
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -84,28 +84,28 @@
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projects
 
 **📉 [Customer Churn Analysis](https://github.com/naosook/customer-churn-analysis-powerbi)**  
-Dashboard em Power BI para análise de evasão de clientes.  
+Power BI dashboard focused on customer churn analysis, using data modeling, DAX measures and Power Query transformations.  
 `Power BI` `DAX` `Power Query`
 
 <br>
 
 **📈 [Marketing Campaign Analysis](https://github.com/naosook/analise-campanhas-marketing)**  
-Análise de 200 mil+ registros de campanhas de marketing, avaliando ROI, conversão e indicadores de desempenho.  
+Exploratory analysis of 200K+ marketing campaign records, evaluating ROI, conversion rates and performance indicators.  
 `Excel` `KPIs` `ROI`
 
 <br>
 
-**📊 [Dashboards Gerenciais](https://github.com/naosook/powerbi-hashtag-dashboards)**  
-Três dashboards (Produção, Financeiro e RH) desenvolvidos no Intensivão Power BI da Hashtag Treinamentos.  
-`Power BI` `DAX` `Modelagem de Dados`
+**📊 [Business Dashboards](https://github.com/naosook/powerbi-hashtag-dashboards)**  
+Development of Production, Financial and HR dashboards during Hashtag Treinamentos' Power BI Intensive Course.  
+`Power BI` `DAX` `Data Modeling`
 
 ---
 
 <div align="center">
 
-💼 Aberta a oportunidades como **Analista de Dados Júnior** ou **Analista de BI Júnior**
+💼 Open to opportunities as a **Junior Data Analyst** or **BI Analyst**
 
 </div>
